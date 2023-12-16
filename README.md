@@ -25,5 +25,5 @@ Na hora de definir a chave de encriptação, nós temos alguns modos de operaç�
 - **OFB (Output Feedback)**:
   - No modo OFB, a cifra é usada para criar uma sequência de blocos pseudoaleatórios, que são XORed com o texto plano.
 
-![Arquivo criptografado](image.png)
-![Arquivo descriptografado](image.png)
+![Arquivo criptografado](arquivo_criptografado.png)
+![Arquivo descriptografado](arquivo_descriptografado.png)
